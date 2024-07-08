@@ -17,7 +17,7 @@
 </center>
 
 ## Description
-Implementation of a selector based on NLP techniques that searches for a specific sequence (gene) among DNA/RNA long-reads. The software does not use alignment algorithms (such as Needleman-Wunsch or Smith-Waterman) in its work and is a *'noMapping mapping'* solution.
+Implementation of a selector based on NLP techniques that searches for a specific sequence among DNA/RNA long-reads. The software does not use alignment algorithms (such as Needleman-Wunsch or Smith-Waterman) in its work and is a *'noMapping mapping'* solution.
 
 ## ▸ Prepare noMapper ◂
 ### Getting Started
